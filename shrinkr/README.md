@@ -1,0 +1,1 @@
+#### All images you place in the image folder will be minified and placed into here. Parent folder will be preserved for organizational purposes.
